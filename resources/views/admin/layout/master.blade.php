@@ -44,5 +44,6 @@
 	</div>
 
 @include('admin.layout.js')
+@stack('scripts')
 </body>
 </html>
